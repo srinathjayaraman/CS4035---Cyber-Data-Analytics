@@ -1,2 +1,2 @@
-# CS4035---Cyber-data-analytics
-assignment notebooks for the cs4035 masters course at tu delft
+# CS4035 - Cyber Data Analytics
+Notebooks of exploratory data analysis and machine learning models, analyzing open cybersecurity datasets including intrusion detection, fraud, network traffic, and more. Part of the masters course at TU Delft.
